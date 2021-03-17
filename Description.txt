@@ -4,6 +4,8 @@
 //Date: 3/2/2020
 //Description: A program that can store and add complex numbers
 
+A new change has been made
+
 *class complex is defined
 -> private members: real_no, img_no
 -> public members: default contructors [unparameterized, one parameter, two parameters]
