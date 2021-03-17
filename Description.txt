@@ -1,0 +1,17 @@
+//Name: Mihir Bapat
+//Enrollment Number: BT19CSE065
+//Assignment 1, Question 9
+//Date: 3/2/2020
+//Description: A program that can store and add complex numbers
+
+*class complex is defined
+-> private members: real_no, img_no
+-> public members: default contructors [unparameterized, one parameter, two parameters]
+		   getdata() [function to user input data into class variable]
+		   show() [function to display the complex number]
+		   sum() [function to add two complex numbers]
+
+*main contains three class complex variables invoked using the 3 constructors
+*the variable invoked using the unparameterized constructor is used to call the getdata() function to store user inputed values
+*all the three variables are used to display the complex number using the show() function
+*the two variables invoked using the two parameterized constructors are added using the sum() function and the sum complex number is displayed as well.
